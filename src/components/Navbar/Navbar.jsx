@@ -117,14 +117,14 @@ export const Navbar = () => {
             )}
 
             <div className='flex space-x-4'>
-              <a href="https://github.com/"
+              <a href="https://github.com/Dev-Anand-007"
                 target='blank'
                 rel='noopener noreferrer'
                 className='text-gray-300 hover:text-white'
               >
                 <FaGithub size={24} />
               </a>
-              <a href="https://linkedin.com/"
+              <a href="https://www.linkedin.com/in/anand-chowbey/"
                 target='blank'
                 rel='noopener noreferrer'
                 className='text-gray-300 hover:text-white'
