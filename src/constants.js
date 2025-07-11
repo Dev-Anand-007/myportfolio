@@ -231,8 +231,8 @@ export const projects = [
       "Built an e-commerce platform for buying and reselling premium pre-owned shoes, promoting style and sustainability. Features include OTP-based authentication, buyer reviews, automated invoice generation, product uploads with image checks, and delivery tracking. Ensured clean UI and secure backend for seamless cross-device experience.",
     image: shoeswapLogo, // Replace with actual image/logo import
     tags: ["PHP", "MySQL", "HTML", "CSS", "JavaScript"],
-    github: "https://github.com/yourusername/shoeswap", // Update if hosted
-    webapp: "https://yourshoeswapapp.com", // Replace with actual URL
+    github: "https://github.com/Dev-Anand-007/ShoeSwap", // Update if hosted
+    webapp: "https://shoeswap.free.nf/", // Replace with actual URL
   },
   {
     id: 1,
@@ -241,8 +241,8 @@ export const projects = [
       "Developed a music streaming app using Flutter with Clean Architecture and Bloc for efficient state management. Integrated Firebase Authentication, supported dark/light mode, and used Cloudinary for song and cover image storage. Delivered a smooth UI with responsive playback controls.",
     image: spotifyCloneLogo, // Replace with actual image/logo import
     tags: ["Flutter", "Firebase", "Cloudinary", "Bloc"],
-    github: "https://github.com/yourusername/spotify-clone", // Replace with actual repo
-    webapp: "https://yourspotifyclone.app", // Replace with actual deployment
+    github: "https://github.com/Dev-Anand-007/ShoeSwap", // Replace with actual repo
+    webapp: "https://shoeswap.free.nf/", // Replace with actual deployment
   },
   {
     id: 2,
@@ -251,8 +251,8 @@ export const projects = [
       "Built a cross-platform weather app using Flutter and the OpenWeatherMap API to display real-time weather updates. Added city search functionality, a custom splash screen, and implemented clean UI with robust API error handling for a seamless user experience.",
     image: mausamLogo, // Replace with actual image/logo import
     tags: ["Flutter", "OpenWeatherMap API"],
-    github: "https://github.com/yourusername/mausam-weather-app", // Replace with actual repo
-    webapp: "https://yourmausamapp.com", // Replace with actual deployment
+    github: "https://github.com/Dev-Anand-007/ShoeSwap", // Replace with actual repo
+    webapp: "https://shoeswap.free.nf/", // Replace with actual deployment
   },
   {
     id: 3,
