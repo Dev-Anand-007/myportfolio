@@ -49,6 +49,8 @@ import kvsLogo from "./assets/education_logo/kvs_logo.png";
 // Project Section Logo's
 import shoeswapLogo from "./assets/work_logo/shoeSwap.png";
 import spotifyCloneLogo from "./assets/work_logo/spotify_clone.png";
+import fueltrack from "./assets/work_logo/fuelTrack_logo.png";
+import mausamLogo from "./assets/work_logo/mausaumLogo.png";
 
 export const SkillsInfo = [
   {
@@ -62,7 +64,6 @@ export const SkillsInfo = [
       { name: "Tailwind CSS", logo: tailwindcssLogo },
       { name: "Material UI", logo: materialuiLogo },
       { name: "Bootstrap", logo: bootstrapLogo },
-
     ],
   },
   {
@@ -74,7 +75,6 @@ export const SkillsInfo = [
       { name: "MySQL", logo: mysqlLogo },
       { name: "Firebase", logo: firebaseLogo },
       { name: "PHP", logo: phpLogo },
-
     ],
   },
   {
@@ -182,7 +182,6 @@ export const experiences = [
       "Material UI",
     ],
   },
-  
 ];
 
 export const education = [
@@ -250,9 +249,19 @@ export const projects = [
     title: "Mausam – Weather Application",
     description:
       "Built a cross-platform weather app using Flutter and the OpenWeatherMap API to display real-time weather updates. Added city search functionality, a custom splash screen, and implemented clean UI with robust API error handling for a seamless user experience.",
-    image: shoeswapLogo, // Replace with actual image/logo import
+    image: mausamLogo, // Replace with actual image/logo import
     tags: ["Flutter", "OpenWeatherMap API"],
     github: "https://github.com/yourusername/mausam-weather-app", // Replace with actual repo
     webapp: "https://yourmausamapp.com", // Replace with actual deployment
+  },
+  {
+    id: 3,
+    title: "FuelTrack – Petrol Pump Management System",
+    description:
+      "Developed a full-stack web application to digitize and streamline petrol pump operations. Built using PHP, MySQL, HTML, Bootstrap, and JavaScript. Features include employee management, dip and density record tracking, fuel stock entry, daily cash submission verification, and invoice/report generation with PDF/Excel export options. Focused on error detection, record security, and ease of use for pump managers.",
+    image: fueltrack, // Replace with actual image/logo import
+    tags: ["PHP", "MySQL", "Bootstrap", "JavaScript"],
+    github: "https://github.com/Dev-Anand-007/FuelTrack", // Replace with actual repo
+    webapp: "http://trelochan.42web.io/", // Replace with actual deployment
   },
 ];
