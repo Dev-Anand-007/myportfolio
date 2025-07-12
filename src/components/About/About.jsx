@@ -46,11 +46,7 @@ export const About = () => {
           </h3>
           {/* About Me Paragraph */}
           <p className="text-base sm:text-lg md:text-lg text-gray-400 mb-4 px-4 md:px-0 lg:-0 mt-8 leading-relaxed">
-            I am a full-stack developer with over 2 years of experience in
-            building scalable web applications. Skilled in both front-end and
-            back-end development, I specialize in the MERN stack and other
-            modern technologies to create seamless user experiences and
-            efficient solutions.
+            I am a Flutter developer with 1 year of professional experience in building smooth, responsive mobile applications. I’ve worked on live client projects focusing on clean UI, API integration, and Firebase-based backend solutions. Alongside Flutter, I also have hands-on experience with React and the MERN stack, allowing me to contribute effectively to web development when needed. Skilled in Play Store deployment, app maintenance, and scalable code practices, I’m passionate about building user-friendly digital experiences and continuously expanding my skill set.
           </p>
 
           <a
