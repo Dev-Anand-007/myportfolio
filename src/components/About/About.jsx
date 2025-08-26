@@ -63,8 +63,8 @@ Focused on delivering smooth user experiences and clean, maintainable code.
             }}
           >
             DOWNLOAD CV
-          </a>
-        </div>*/}
+          </a>*/}
+        </div>
         {/* Right Side  */}
 
         <div className='md-w-1/2 flex justify-center md:justify-end '>
