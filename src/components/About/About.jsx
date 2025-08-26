@@ -52,7 +52,7 @@ Skilled in RESTful API integration and using Firebase for backend services.
 Focused on delivering smooth user experiences and clean, maintainable code.
           </p>
 
-          <a
+          {/* <a
             href="https://drive.google.com/file/d/1zs1Na8XuF3kof0j_DHrARU_T8Zf6BpNE/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
@@ -64,7 +64,7 @@ Focused on delivering smooth user experiences and clean, maintainable code.
           >
             DOWNLOAD CV
           </a>
-        </div>
+        </div>*/}
         {/* Right Side  */}
 
         <div className='md-w-1/2 flex justify-center md:justify-end '>
